@@ -1,0 +1,2 @@
+# XSENO-BOT
+XSENO AI Discord Bot
